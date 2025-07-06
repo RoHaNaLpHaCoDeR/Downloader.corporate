@@ -224,7 +224,7 @@ def download_with_retry(reel_url, temp_folder, videos_folder, counter, links_fil
 def main():
     print("[LOG] Starting main function...")
     temp_folder = "temp"
-    videos_folder = "VIDEOS_NEW"
+    videos_folder = "VIDEOS"
     counter_file = "counter.txt"
     links_file = "linkspart1.txt"
     
